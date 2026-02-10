@@ -1,5 +1,5 @@
 # Que tal praticar?
-##Você vai criar uma Agenda de Eventos Simples.
+## Você vai criar uma Agenda de Eventos Simples.
 
 ### Crie um enum chamado DiaDaSemana, com os dias da semana:
 
