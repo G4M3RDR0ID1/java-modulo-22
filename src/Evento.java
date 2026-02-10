@@ -29,7 +29,7 @@ public class Evento {
         DateTimeFormatter horaFormatada = DateTimeFormatter.ofPattern("HH:mm");
 
         System.out.println("O evento: " + nome
-                + " | Ocorrera em um(a) : " + diaDaSemana
+                + " | Ocorrera em um(a) : " + diaDaSemana.getDescricao()
                 + " | Na data: " + dataHora.format(dataFormatada)
                 + " | Horario: " + dataHora.format(horaFormatada));
     }
